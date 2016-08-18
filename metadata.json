@@ -1,0 +1,21 @@
+{
+      "name": "puppetlabs-homeshick",
+      "version": "0.1.0",
+      "author": "kiesel",
+      "license": "MIT",
+      "summary": "Puppet module to manage homeshick installation and user castles",
+      "source": "https://github.com/kiesel/puppet-homeshick",
+      "project_page": "https://github.com/kiesel/puppet-homeshick",
+      "issues_url": "https://github.com/kiesel/puppet-homeshick/issues",
+      "tags": ["homeshick"],
+      "operatingsystem_support": [
+        {
+          "operatingsystem": "Debian",
+          "operatingsystemrelease": [ 
+            "7",
+            "8"
+         ]
+        }
+      ],
+      "dependencies": []
+    }
